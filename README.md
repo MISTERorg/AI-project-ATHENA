@@ -6,5 +6,6 @@ The app needs
 - pyAudio and her ear
 - vosk model as her mouth
 - bert model for offline conversations
-NOTE: the app is still in development 
+- a raspberry pi for hardware links
+NOTE: the app is still in development and not the full code has been uploaded get in touch for more......
 
