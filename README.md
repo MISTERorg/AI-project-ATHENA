@@ -10,5 +10,5 @@ the app is simple when you call her you receive a human like response then if yo
 # VIDEO DEMO
 https://youtu.be/U3qPE1ZRokI
 # NOTE
-the app is still in development and not the full code has been uploaded get in touch for more......
+the app is still in development and not all the code has been uploaded get in touch for more......
 
